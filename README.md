@@ -12,9 +12,8 @@ Where lines blur between image and instruction — something waits.
 
 ## 🧠 Currently Learning
 
-- 🕹️ Game Development (Unity / Unreal)
+- 🕹️ Game Development (Unity)
 - 🧱 3D Modelling & Animation (Blender)
-- 🤖 AI tools & automation
 - ✍️ Digital Illustration & Visual Storytelling
 
 ---
