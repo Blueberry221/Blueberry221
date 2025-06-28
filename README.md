@@ -4,7 +4,9 @@ Woke up with graphite on fingers and code in dreams.
 Sketches whisper systems. Scripts loop like prophecies.  
 Where lines blur between image and instruction — something waits.
 
-![Giphy GIF](https://media.giphy.com/media/uozJs7kR6J98k/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/uozJs7kR6J98k/giphy.gif" alt="Your Choices..." width="800">
+</p>
 
 ---
 
@@ -52,4 +54,9 @@ Where lines blur between image and instruction — something waits.
 
 ---
 
-![Stars Train](stars-train.gif)
+> _The journey continues..._
+
+<p align="center">
+  <img src="stars-train.gif" alt="Stars Train" style="width:100%;">
+</p>
+
