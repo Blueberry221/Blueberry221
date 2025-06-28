@@ -5,7 +5,7 @@ Sketches whisper systems. Scripts loop like prophecies.
 Where lines blur between image and instruction — something waits.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/uozJs7kR6J98k/giphy.gif" alt="Your Choices..." width="800">
+  <img src="https://media.giphy.com/media/uozJs7kR6J98k/giphy.gif" alt="Your Choices..." width="100%">
 </p>
 
 ---
@@ -57,6 +57,8 @@ Where lines blur between image and instruction — something waits.
 > _The journey continues..._
 
 <p align="center">
-  <img src="stars-train.gif" alt="Stars Train" style="800;">
+  <img src="stars-train.gif" alt="Stars Train" width="100%">
 </p>
+
+
 
