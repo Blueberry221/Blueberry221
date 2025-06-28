@@ -57,6 +57,6 @@ Where lines blur between image and instruction — something waits.
 > _The journey continues..._
 
 <p align="center">
-  <img src="stars-train.gif" alt="Stars Train" style="width:100%;">
+  <img src="stars-train.gif" alt="Stars Train" style="800;">
 </p>
 
