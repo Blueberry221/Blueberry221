@@ -29,11 +29,20 @@ Where lines blur between image and instruction — something waits.
 
 ---
 
+
 ## 📊 GitHub Realm
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blueberry221&show_icons=true&theme=tokyonight&rank_icon=github)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blueberry221&layout=compact&theme=tokyonight)
+![Blueberry221's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blueberry221&show_icons=true&theme=tokyonight&rank_icon=github&card_width=450)
+
+</div>
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blueberry221&layout=compact&theme=tokyonight&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
