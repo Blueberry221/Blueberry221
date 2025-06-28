@@ -39,7 +39,7 @@ Where lines blur between image and instruction — something waits.
 
 ## 🌐 Connect with the Entity
 
-- 🎮 Steam: [`paperberry`]([https://steamcommunity.com/id/Blueberry221](https://steamcommunity.com/profiles/76561199544334062/))
+- 🎮 Steam: [paperberry](https://steamcommunity.com/profiles/76561199544334062/)
 - 📷 Instagram: _coming soon_
 - 📺 YouTube: _coming soon_
 
