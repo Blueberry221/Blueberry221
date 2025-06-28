@@ -31,7 +31,7 @@ Where lines blur between image and instruction — something waits.
 
 ## 📊 GitHub Realm
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blueberry221&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blueberry221&show_icons=true&theme=tokyonight&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blueberry221&layout=compact&theme=tokyonight)
 
